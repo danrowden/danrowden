@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Dan.
 
-<!--
-**danrowden/danrowden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer, mostly working with Django.
 
-Here are some ideas to get you started:
+I run a few projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [subsail.com](https://subsail.com) - Subscription platform for indie magazines
+- [cove.chat](https://cove.chat) - Commenting built on Ghost memberships
+- [gloat.dev](https://gloat.dev) - Concierge installs and updates for self-hosted Ghost sites
+
+I work as Head of Product for [Articheck](https://articheck.com).
+
+[danrowden.com](https://danrowden.com)
