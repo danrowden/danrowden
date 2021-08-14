@@ -1,15 +1,13 @@
 ### Hi, I'm Dan.
 
-I'm a full-stack developer, mostly working with Django.
+I'm a designer and full-stack developer, mostly working with Django.
 
-I run a few projects:
+As an indie developer, I run a few projects under the name Monday Studio:
 
-- [ilo.so](https://ilo.so) - Better Twitter analytics
-- [tolta.co](https://tolta.co) - Monitor sales and social data in one place (sold)
+- [ilo.so](https://ilo.so) - Premium Twitter analytics
 - [subsail.com](https://subsail.com) - Subscription platform for indie magazines
 - [cove.chat](https://cove.chat) - Commenting built on Ghost memberships
-- [gloat.dev](https://gloat.dev) - Concierge installs and updates for self-hosted Ghost sites
-
-I work as Head of Product for [Articheck](https://articheck.com).
+- [gloathost.com](https://gloathost.com) - An unlimited, affordable Ghost host
+- [gloat.dev](https://gloat.dev) - On-demand Ghost development and theme customisations
 
 [danrowden.com](https://danrowden.com)
